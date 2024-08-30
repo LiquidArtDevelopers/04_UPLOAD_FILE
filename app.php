@@ -5,7 +5,6 @@ ini_set('file_upload', 1); //permite subir archivos
 ini_set('allow_url_fopen', 1); //permite abrir archivos subidos
 
 
-
 /* QUERIDA CLASE
 En XAMPP, damos en "config a MySQL y editamos el archivo my.ini donde cambiaremos el valor de max_allowed_packet=1M por otro superior, por ejemplo 100M. Sino tendremos capado el subir arhivos cuya encriptación supere 1MB
 
